@@ -11,6 +11,7 @@ public class JdbcCrudDemo {
 
         String url = "jdbc:mysql://localhost:3306/college";
         String user = "root";  // your MySQL username
+      
         String pass = "akanksha567";  // your MySQL password
 
         Scanner sc = new Scanner(System.in);
